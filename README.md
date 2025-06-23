@@ -44,4 +44,16 @@ python manage.py runserver
 * sqlite
 * unittest
 
+## practices
+1. jitsi 
+    * login view
+    * signup view
+    * register view
+2. django_jalali
+    * costomize admin panel
+    * class model and functions
+    * validation with form
+
+
+---
 ### Created by Alireza 
